@@ -1,0 +1,15 @@
+C:\Users\ismae\source\repos\MySecondP\bin\Debug\net6.0\MySecondP.exe
+C:\Users\ismae\source\repos\MySecondP\bin\Debug\net6.0\MySecondP.deps.json
+C:\Users\ismae\source\repos\MySecondP\bin\Debug\net6.0\MySecondP.runtimeconfig.json
+C:\Users\ismae\source\repos\MySecondP\bin\Debug\net6.0\MySecondP.dll
+C:\Users\ismae\source\repos\MySecondP\bin\Debug\net6.0\ref\MySecondP.dll
+C:\Users\ismae\source\repos\MySecondP\bin\Debug\net6.0\MySecondP.pdb
+C:\Users\ismae\source\repos\MySecondP\obj\Debug\net6.0\MySecondP.csproj.AssemblyReference.cache
+C:\Users\ismae\source\repos\MySecondP\obj\Debug\net6.0\MySecondP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismae\source\repos\MySecondP\obj\Debug\net6.0\MySecondP.AssemblyInfoInputs.cache
+C:\Users\ismae\source\repos\MySecondP\obj\Debug\net6.0\MySecondP.AssemblyInfo.cs
+C:\Users\ismae\source\repos\MySecondP\obj\Debug\net6.0\MySecondP.csproj.CoreCompileInputs.cache
+C:\Users\ismae\source\repos\MySecondP\obj\Debug\net6.0\MySecondP.dll
+C:\Users\ismae\source\repos\MySecondP\obj\Debug\net6.0\ref\MySecondP.dll
+C:\Users\ismae\source\repos\MySecondP\obj\Debug\net6.0\MySecondP.pdb
+C:\Users\ismae\source\repos\MySecondP\obj\Debug\net6.0\MySecondP.genruntimeconfig.cache
